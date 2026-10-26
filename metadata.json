@@ -1,0 +1,6 @@
+{
+  "name": "Notice-to-Action Accessibility Assistant",
+  "description": "Understand the notice. Know what to do next. Transform complex real-world notices into verified facts, accessible plain-language summaries, multilingual translations, and actionable checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
